@@ -1,0 +1,19 @@
+p {
+color: green;
+} 
+
+h2 {
+color: blue;
+}
+
+//li {
+//color: orange;
+//}
+
+.text-italic {
+font-weight: italic;
+}
+
+.text-yellow {
+color: yellow;
+}
